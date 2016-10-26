@@ -2,7 +2,7 @@
 title: Your Name
 email: Your Email
 description: "Your Description"
-baseurl: ""
+baseurl: "/jekyll-material"
 url: ""
 paginate: 4
 paginate_path: "page/:num/"
